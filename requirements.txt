@@ -1,0 +1,6 @@
+ultralytics>=8.0.0
+opencv-python
+numpy
+matplotlib
+# Optional: only needed if you use the Roboflow Python SDK instead of its web UI
+# roboflow

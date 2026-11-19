@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+.env
+
+# Model weights (large, don't commit) and Ultralytics default run outputs
+*.pt
+*.onnx
+runs/
+
+# OS cruft
+.DS_Store
+
+data.zip
+
