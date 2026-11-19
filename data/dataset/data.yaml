@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Eraser', 'Pen', 'Punch']
+
+roboflow:
+  workspace: aks-workspace-0kv86
+  project: biin-picking-vision
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/aks-workspace-0kv86/biin-picking-vision/1
